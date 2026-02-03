@@ -1,5 +1,15 @@
 {
-    "require": {
-        "dompdf/dompdf": "^3.1"
-    }
+    "name": "ricar/crud-basico-06",
+    "autoload": {
+        "psr-4": {
+            "Ricar\\CrudBasico06\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ricardo-nascimento-cloud",
+            "email": "ricardonascimento1506@gmail.com"
+        }
+    ],
+    "require": {}
 }
